@@ -1,0 +1,23 @@
+To Do:
+
+
+specify box url  --  ok -- take from centos website
+
+
+
+(!) learn about NAT & read about different network types in VirtualBox  --  NAT in DETAIL!!
+
+
+
+automatically apply VirtualBox guest addition (Vagrant plugin) - for shared folders  
+  --  installed vagrant-vbguest3
+
+
+
+- - -
+For later:
+
+
+Use wordpress instead of flask for testing
+
+- - - 
