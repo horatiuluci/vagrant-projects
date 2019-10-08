@@ -1,11 +1,15 @@
 To Do:
 
 
-specify box url  --  ok -- take from centos website
+specify box url  --  ok -- take link from CentOS website
 
 
 
-(!) learn about NAT & read about different network types in VirtualBox  --  NAT in DETAIL!!
+Learn about NAT & read about different network types in VirtualBox 
+	 -- Flask server connected through - NAT
+					   - 
+					   - 
+					   - 
 
 
 
