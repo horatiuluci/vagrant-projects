@@ -5,11 +5,11 @@ folder to store vagrant projects, data and info
 * specify box url  --  ok -- take link from CentOS website
 
 
-* Learn about NAT & read about different network types in VirtualBox 
-     -- Flask server connected through - NAT (ok)
-                       - Bridged
-                       - Host-Only
-                       - Internal
+* Learn about NAT & read about different network types in VirtualBox
+- NAT (ok)
+- Bridged
+- Host-Only
+- Internal
 
 
 
