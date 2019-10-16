@@ -6,25 +6,12 @@ folder to store vagrant projects, data and info
 
 
 * Learn about NAT & read about different network types in VirtualBox
+```
 - NAT (ok)
 - Bridged
 - Host-Only
 - Internal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 
 
